@@ -1,0 +1,23 @@
+{
+  "name": "n-short",
+  "version": "1.0.1",
+  "description": "n-short [\"150000\", \"1.5k\"]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimAli768/shortnumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimAli768/n-short/issues"
+  },
+  "homepage": "https://github.com/IbrahimAli768/n-short#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
