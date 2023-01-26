@@ -1,6 +1,6 @@
 {
   "name": "n-short",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "n-short [\"150000\", \"1.5k\"]",
   "main": "index.js",
   "scripts": {
