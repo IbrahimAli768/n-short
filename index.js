@@ -1,5 +1,5 @@
 const shortnumber = (number) => {
-    if (!number) return "NaN Please type number";
+    if (!number) return "0";
     if (typeof number === "string") number = parseInt(number);
     const lookup = [
       { value: 1, symbol: "" },
